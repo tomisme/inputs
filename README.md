@@ -15,52 +15,52 @@ Below are some things I'd like to read. Some things I've read are [here](done.md
 ## Papers
 
 - Analyzing software requirements errors in safety-critical embedded systems — Lutz, IEEE Requirements Engineering, 1993
- - https://blog.acolyer.org/2017/12/01/analyzing-software-requirements-errors-in-safety-critical-embedded-systems/
+  - https://blog.acolyer.org/2017/12/01/analyzing-software-requirements-errors-in-safety-critical-embedded-systems/
 
 - Bolt: anonymous payment channels for decentralized currencies — Green and Miers et al., CCS’17
- - https://blog.acolyer.org/2017/12/14/bolt-anonymous-payment-channels-for-decentralized-currencies-part-ii/
+  - https://blog.acolyer.org/2017/12/14/bolt-anonymous-payment-channels-for-decentralized-currencies-part-ii/
 
 - Meltdown — Lipp et al., 2018
- - https://blog.acolyer.org/2018/01/15/meltdown/
+  - https://blog.acolyer.org/2018/01/15/meltdown/
 
 - Spectre attacks: exploiting speculative execution — Kocher et al., 2018
- - https://blog.acolyer.org/2018/01/16/spectre-attacks-exploiting-speculative-execution/
+  - https://blog.acolyer.org/2018/01/16/spectre-attacks-exploiting-speculative-execution/
 
 - Some thoughts on security after ten years of qmail 1.0 — Bernstein, 2007
- - https://blog.acolyer.org/2018/01/17/some-thoughts-on-security-after-ten-years-of-qmail-1-0/
+  - https://blog.acolyer.org/2018/01/17/some-thoughts-on-security-after-ten-years-of-qmail-1-0/
 
 - The paradigms of programming — Floyd, CACM 1979
- - https://blog.acolyer.org/2018/01/29/the-paradigms-of-programming/
+  - https://blog.acolyer.org/2018/01/29/the-paradigms-of-programming/
 
 - As we may think — Vannevar Bush, The Atlantic, 1945
- - https://blog.acolyer.org/2018/02/23/as-we-may-think/
+  - https://blog.acolyer.org/2018/02/23/as-we-may-think/
 
 - Zeus: Analyzing safety of smart contracts — Kalra et al., NDSS’18
- - https://blog.acolyer.org/2018/03/08/zeus-analyzing-safety-of-smart-contracts/
+  - https://blog.acolyer.org/2018/03/08/zeus-analyzing-safety-of-smart-contracts/
 
 - Settling payments fast and private: efficient decentralized routing for path-based transactions — Roos et al., NDSS’18
- - https://blog.acolyer.org/2018/03/09/settling-payments-fast-and-private-efficient-decentralized-routing-for-path-based-transactions/
+  - https://blog.acolyer.org/2018/03/09/settling-payments-fast-and-private-efficient-decentralized-routing-for-path-based-transactions/
 
 - Designing secure Ethereum smart contracts: a finite state machine based approach — Mavridou & Laszka, FC’18
- - https://blog.acolyer.org/2018/03/20/designing-secure-ethereum-smart-contracts-a-finite-state-machine-approach/
+  - https://blog.acolyer.org/2018/03/20/designing-secure-ethereum-smart-contracts-a-finite-state-machine-approach/
 
 - Towards a design philosophy for interoperable blockchain systems — Hardjono et al., arXiv 2018
- - https://blog.acolyer.org/2018/05/30/towards-a-design-philosophy-for-interoperable-blockchain-systems/
+  - https://blog.acolyer.org/2018/05/30/towards-a-design-philosophy-for-interoperable-blockchain-systems/
 
 - Debugging data flows in reactive programs — Banken et al., ICSE’18
- - https://blog.acolyer.org/2018/06/29/debugging-data-flows-in-reactive-programs/
+  - https://blog.acolyer.org/2018/06/29/debugging-data-flows-in-reactive-programs/
 
 - Bringing the web up to speed with WebAssembly — Haas et al., PLDI 2017
- - https://blog.acolyer.org/2017/09/18/bringing-the-web-up-to-speed-with-webassembly/
+  - https://blog.acolyer.org/2017/09/18/bringing-the-web-up-to-speed-with-webassembly/
 
 - Step by step towards creating a safe smart contract: lessons and insights from a cryptocurrency lab — Delmolino et al., 2015.
- - https://blog.acolyer.org/2017/09/01/step-by-step-towards-creating-a-safe-smart-contract-lessons-from-a-cryptocurrency-lab/
+  - https://blog.acolyer.org/2017/09/01/step-by-step-towards-creating-a-safe-smart-contract-lessons-from-a-cryptocurrency-lab/
 
 - A concurrent perspective on smart contracts — Sergey & Hobor, Workshop on Trusted Smart Contracts, 2017
- - https://blog.acolyer.org/2017/08/30/a-concurrent-perspective-on-smart-contracts/
+  - https://blog.acolyer.org/2017/08/30/a-concurrent-perspective-on-smart-contracts/
 
 - Programming paradigms for dummies: what every programmer should know — Peter Van Roy, 2009
- - https://blog.acolyer.org/2019/01/25/programming-paradigms-for-dummies-what-every-programmer-should-know/
+  - https://blog.acolyer.org/2019/01/25/programming-paradigms-for-dummies-what-every-programmer-should-know/
 
 - Towards a Theory of Conceptual Design for Software — Daniel Jackson
 
