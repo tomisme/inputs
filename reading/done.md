@@ -9,6 +9,10 @@
 
 ## Blog Posts
 
+#### Why I Am Not A Capitalist
+
+- https://radicalxchange.org/blog/posts/2019-01-14-j73qnz/
+
 #### Spaghetti Towers
 - https://eukaryotewritesblog.com/2018/12/21/spaghetti-towers/
 - https://www.lesswrong.com/posts/NQgWL7tvAPgN2LTLn/spaghetti-towers#comments

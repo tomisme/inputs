@@ -11,7 +11,10 @@ Other books:
 - Anarcho-transhuman #4: Outer Space & Cosmic Ambitions
   - http://anarchotranshuman.org/post/182665919252/our-fourth-issue-click-image-for-imposed-pdf
 
-## Articles
+- Increment #8: Internationalization
+  - https://increment.com/internationalization/
+
+## Articles & Blogs
 
 - https://blog.acolyer.org/2018/01/26/a-practitioners-guide-to-reading-programming-languages-papers/
 
@@ -20,7 +23,25 @@ Other books:
 - How to Become a Freelance Web Developer and Land Your First Client
   - https://www.codementor.io/blog/land-clients-freelance-developer-39w3i166wy
 
+- Integrated Music Streaming Service With the Lightning Network
+  - https://medium.com/@bkb6sm/integrated-music-streaming-service-with-the-lightning-network-43c42a3ba715
+
+- Why I Am Not A Statist
+  - https://radicalxchange.org/blog/posts/2019-01-28-5ixa34/
+
+- Hope Is Not Enough To Redeem Statism
+  - https://radicalxchange.org/blog/posts/2019-02-06-oha41s/
+
+- Introducing the Force-Move Games Framework for State Channels
+  - https://medium.com/statechannels/introducing-the-force-move-games-framework-for-state-channels-b32dd953c13f
+
+- The History of Playing Cards: The Evolution of the Modern Deck
+  - https://www.boardgamegeek.com/blogpost/83931/history-playing-cards-evolution-modern-deck?mc_cid=55b142307a&mc_eid=fb20ac2555
+
 ## Papers
+
+- The Presentation of Self on a Decentralised Web
+  - https://github.com/rhiaro/thesis
 
 - Analyzing software requirements errors in safety-critical embedded systems — Lutz, IEEE Requirements Engineering, 1993
   - https://blog.acolyer.org/2017/12/01/analyzing-software-requirements-errors-in-safety-critical-embedded-systems/
