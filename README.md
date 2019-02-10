@@ -13,4 +13,4 @@ I'm in the process of moving various notes and lists into this repo so it's a bi
 
 I try to keep copies of most things digital so feel free to [contact me](http://tomisme.com) if you want access to something I haven't linked.
 
-Inspired by Veit Heller's [ptolemy](https://github.com/hellerve/ptolemy).
+I was inspired by Veit Heller's [ptolemy](https://github.com/hellerve/ptolemy).
