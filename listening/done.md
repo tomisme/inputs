@@ -4,7 +4,7 @@
 
  - https://leanpub.com/podcasts/frontmatter/zach-tellman-06-06-18
 
-#### Defn #2: Daniel Higginbotham on Specmonstah, Clojure Spec, and Ent walking trees
+#### The REPL #2: Daniel Higginbotham on Specmonstah, Clojure Spec, and Ent walking trees
 
  - https://www.therepl.net/episodes/2/
  
