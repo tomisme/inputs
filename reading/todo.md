@@ -16,7 +16,11 @@ Other books:
 
 ## Articles & Blogs
 
-- https://blog.acolyer.org/2018/01/26/a-practitioners-guide-to-reading-programming-languages-papers/
+- How Do You Value a Human Being?
+  - https://www.ribbonfarm.com/2018/08/30/how-do-you-value-a-human-being/
+
+- A practitioner’s guide to reading programming languages papers
+  - https://blog.acolyer.org/2018/01/26/a-practitioners-guide-to-reading-programming-languages-papers/
 
 - Preserving Microbial Diversity: Microbiota from humans of all cultures are needed to ensure the health of future generations
 
