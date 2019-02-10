@@ -16,6 +16,10 @@ Other books:
 
 ## Articles & Blogs
 
+- Athens is one of the last cities in Europe that can still be old, weird, and chaotic
+  - Musician and cartoonist Montero explains why he decided to relocate from his native Melbourne to Athens and describes how art can thrive in a context of crisis
+  - https://neoskosmos.com/en/110983/athens-is-one-of-the-last-cities-in-europe-that-can-still-be-old-weird-and-chaotic/
+
 - How Do You Value a Human Being?
   - https://www.ribbonfarm.com/2018/08/30/how-do-you-value-a-human-being/
 
