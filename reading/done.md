@@ -6,12 +6,13 @@
 
 - Enter the Hydra: Towards Principled Bug Bounties and Exploit-Resistant Smart Contracts — Lorenz Breidenbach, Phil Daian, Florian Tramèr, Ari Juels
 
-
 ## Blog Posts
 
 #### Why I Am Not A Capitalist
 
 - https://radicalxchange.org/blog/posts/2019-01-14-j73qnz/
+
+Glen Weyl makes the case that neoliberalism, even with social insurance, doesn't offer a way to deal with increasing returns.
 
 #### Spaghetti Towers
 - https://eukaryotewritesblog.com/2018/12/21/spaghetti-towers/
