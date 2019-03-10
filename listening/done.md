@@ -1,4 +1,6 @@
 ## Podcasts
+https://curiousprogrammer.net/2018/02/10/defn-podcast-episode-30-zach-tellman/
+https://leanpub.com/podcasts/frontmatter/zach-tellman-06-06-18
 
 ### EconTalk at the Hoover
 
@@ -92,3 +94,17 @@ Any map without utopia is not worth using, Oscar Wilde?
 "there's a lot of stones you can throw at this"
 
 Peter Theil: vampire
+
+### The REPL
+
+#### #2: Daniel Higginbotham on Specmonstah, Clojure Spec, and Ent walking trees
+
+https://www.therepl.net/episodes/2/
+
+Seq interface for merkle trees?
+
+Specmonstah 'visiting' functions
+
+Specs as an alternative to types for optimised bytecode
+
+Using spec conform to dispatch on type of arg to a fn using descriptive names!

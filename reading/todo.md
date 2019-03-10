@@ -58,7 +58,15 @@ Other books:
 - On Efficient Ethereum Storage
   - https://medium.com/coinmonks/on-efficient-ethereum-storage-c76869591add
 
-- https://blog.acolyer.org/2018/01/26/a-practitioners-guide-to-reading-programming-languages-papers/
+- Athens is one of the last cities in Europe that can still be old, weird, and chaotic
+  - Musician and cartoonist Montero explains why he decided to relocate from his native Melbourne to Athens and describes how art can thrive in a context of crisis
+  - https://neoskosmos.com/en/110983/athens-is-one-of-the-last-cities-in-europe-that-can-still-be-old-weird-and-chaotic/
+
+- How Do You Value a Human Being?
+  - https://www.ribbonfarm.com/2018/08/30/how-do-you-value-a-human-being/
+
+- A practitioner’s guide to reading programming languages papers
+  - https://blog.acolyer.org/2018/01/26/a-practitioners-guide-to-reading-programming-languages-papers/
 
 - Preserving Microbial Diversity: Microbiota from humans of all cultures are needed to ensure the health of future generations
 
@@ -79,6 +87,35 @@ Other books:
 
 - The History of Playing Cards: The Evolution of the Modern Deck
   - https://www.boardgamegeek.com/blogpost/83931/history-playing-cards-evolution-modern-deck?mc_cid=55b142307a&mc_eid=fb20ac2555
+
+- Why libp2p?
+  - https://medium.com/paritytech/why-libp2p-13085ed0c9c8
+
+- From zero to nowhere: smart contract programming in Huff (1/2)
+  - https://medium.com/aztec-protocol/from-zero-to-nowhere-smart-contract-programming-in-huff-1-2-ba2b6de7fa83
+
+- Web3 Design Decision Making Framework
+  - Initial results of the research for the Web3 Design System that teach how to make sense of Web3 user problems and how to solve them
+  - https://medium.com/@lyricalpolymath/web3designdecisionframework-e84075816515
+
+- The Ethereum Virtual Machine — How does it work?
+  - https://medium.com/mycrypto/the-ethereum-virtual-machine-how-does-it-work-9abac2b7c9e
+
+- Adventures with Dumb Contracts
+  - https://medium.com/coinmonks/adventures-with-dumb-contracts-18f8ce8414c9
+
+- JelloPaper: Human Readable Semantics of EVM in K
+  - https://jellopaper.org/
+
+- We may finally know what causes Alzheimer’s – and how to stop it
+  - https://www.newscientist.com/article/2191814-we-may-finally-know-what-causes-alzheimers-and-how-to-stop-it/
+
+- We need to own our data as a human right—and be compensated for it
+  - https://www.economist.com/open-future/2019/01/21/we-need-to-own-our-data-as-a-human-right-and-be-compensated-for-it
+
+- It’s Time to Try Fossil-Fuel Executives for Crimes Against Humanity
+  - https://www.jacobinmag.com/2019/02/fossil-fuels-climate-change-crimes-against-humanity
+  - https://www.reddit.com/r/Futurology/comments/anpw0d/its_time_to_try_fossilfuel_executives_for_crimes/
 
 ## Papers
 
