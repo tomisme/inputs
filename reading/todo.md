@@ -16,6 +16,48 @@ Other books:
 
 ## Articles & Blogs
 
+- Myths of Malinche
+  - https://www.bigredhair.com/blog/myths-of-malinche/
+
+- A Journey Into the Animal Mind: What science can tell us about how other creatures experience the world
+  - https://www.theatlantic.com/magazine/archive/2019/03/what-the-crow-knows/580726/
+
+- EVM Evolution Roadmap: Towards a More Aggressive Ethereum Execution Engine
+  - https://medium.com/spadebuilders/evm-evolution-roadmap-f8b8e3a73882
+
+- Advanced Solidity code deployment techniques
+  - https://blog.aragon.org/advanced-solidity-code-deployment-techniques-dc032665f434/
+
+- Using Machine Text Generation Techniques to Write Cool Stories
+  - https://medium.com/procedural-storytelling/using-procedural-text-generation-techniques-to-write-cool-stories-4fa4cf74a72a
+
+- Marngrook, Tom Wills and the Continuing Denial of Indigenous History
+  - https://meanjin.com.au/essays/marngrook-tom-wills-and-the-continuing-denial-of-indigenous-history/
+
+- A letter to Steven Pinker (and Bill Gates, for that matter) about global poverty
+  - https://www.jasonhickel.org/blog/2019/2/3/pinker-and-global-poverty
+
+- Build a Clojure web app using Duct
+  - https://circleci.com/blog/build-a-clojure-web-app-using-duct/
+
+- The Retreat from the Word
+  - https://www.jstor.org/stable/4334112?seq=1#page_scan_tab_contents
+
+- Speeding Up IPFS Through Swarm Connections
+  - https://medium.com/pinata/speeding-up-ipfs-pinning-through-swarm-connections-b509b1471986
+
+- Code hidden in Stone Age art may be the root of human writing
+  - https://www.newscientist.com/article/mg23230990-700-in-search-of-the-very-first-coded-symbols/
+
+- Life is not easily bounded
+  - https://aeon.co/essays/what-constitutes-an-individual-organism-in-biology
+
+- Eco-efficient cements: Potential economically viable solutions for a low-CO2 cement-based materials industry
+  - https://www.sciencedirect.com/science/article/pii/S0008884618301480
+
+- On Efficient Ethereum Storage
+  - https://medium.com/coinmonks/on-efficient-ethereum-storage-c76869591add
+
 - https://blog.acolyer.org/2018/01/26/a-practitioners-guide-to-reading-programming-languages-papers/
 
 - Preserving Microbial Diversity: Microbiota from humans of all cultures are needed to ensure the health of future generations
