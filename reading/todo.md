@@ -16,6 +16,12 @@ Other books:
 
 ## Articles & Blogs
 
+- Aboriginal houses
+  - https://www.creativespirits.info/aboriginalculture/land/aboriginal-houses
+
+- How Chinese novelists are reimagining science fiction
+  - https://www.newstatesman.com/chinese-science-fiction-dystopia-liu-cixin-triology
+
 - Myths of Malinche
   - https://www.bigredhair.com/blog/myths-of-malinche/
 
@@ -118,6 +124,9 @@ Other books:
   - https://www.reddit.com/r/Futurology/comments/anpw0d/its_time_to_try_fossilfuel_executives_for_crimes/
 
 ## Papers
+
+- Aboriginal occupation on Rottnest Island, Western Australia, provisionally dated by Aspartic Acid Racemisation assay of land snails to greater than 50 ka
+  - https://australianarchaeologicalassociation.com.au/wp-content/uploads/2013/12/Hesp-et-al-1999.pdf
 
 - The Presentation of Self on a Decentralised Web
   - https://github.com/rhiaro/thesis
