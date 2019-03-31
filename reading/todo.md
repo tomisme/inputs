@@ -123,7 +123,19 @@ Other books:
   - https://www.jacobinmag.com/2019/02/fossil-fuels-climate-change-crimes-against-humanity
   - https://www.reddit.com/r/Futurology/comments/anpw0d/its_time_to_try_fossilfuel_executives_for_crimes/
 
-## Papers
+## Papers / Theses
+
+- Stable isotopes reveal patterns of diet and mobility in the last Neandertals and first modern humans in Europe
+  - https://www.researchgate.net/publication/331735735_Stable_isotopes_reveal_patterns_of_diet_and_mobility_in_the_last_Neandertals_and_first_modern_humans_in_Europe
+
+- Code Optimisation Techniques for Lazy Functional Languages
+  - Urban Boquist
+  - Describes GRIN (Graph Reduction Intermediate Notation)
+  - http://nbviewer.jupyter.org/github/grin-tech/grin/blob/master/papers/boquist.pdf
+
+- Non-linear Pattern Matching with Backtracking for Non-free Data Types
+  - Satoshi Egi, Yuichi Nishiwaki
+  - https://arxiv.org/abs/1808.10603
 
 - Aboriginal occupation on Rottnest Island, Western Australia, provisionally dated by Aspartic Acid Racemisation assay of land snails to greater than 50 ka
   - https://australianarchaeologicalassociation.com.au/wp-content/uploads/2013/12/Hesp-et-al-1999.pdf
