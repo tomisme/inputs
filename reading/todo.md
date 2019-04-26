@@ -16,6 +16,17 @@ Other books:
 
 ## Articles, Blog Posts
 
+- [How the US has hidden its empire](https://www.theguardian.com/news/2019/feb/15/the-us-hidden-empire-overseas-territories-united-states-guam-puerto-rico-american-samoa)
+
+- [Ancient technology gets an update in sustainable cooling solution](https://archpaper.com/2019/02/ant-studio-beehive)
+
+- [Semiotic Ghosts: Science Fiction and Historicism](http://techstyle.lmc.gatech.edu/wp-content/uploads/2011/11/0000005936-Semiotic-ghosts2.pdf)
+ - Peio Aguirre
+
+- [Heineken claims its business helps Africa. Is that too good to be true?](https://www.theguardian.com/news/2019/feb/12/heineken-claims-its-business-helps-africa-is-that-too-good-to-be-true)
+ - The Dutch beer giant likes to blow its own trumpet about the economic and social benefits it brings to Africa – but revelations of sexual harassment and low pay show a different picture.
+ - Olivier van Beemen (The Guardian)
+
 - [Aboriginal houses](https://www.creativespirits.info/aboriginalculture/land/aboriginal-houses)
 
 - [How Chinese novelists are reimagining science fiction](https://www.newstatesman.com/chinese-science-fiction-dystopia-liu-cixin-triology)
@@ -90,6 +101,10 @@ Other books:
   - https://www.reddit.com/r/Futurology/comments/anpw0d/its_time_to_try_fossilfuel_executives_for_crimes/
 
 ## Papers, Theses
+
+- [Curating Simulated Storyworlds](https://www.researchgate.net/publication/330855103_Curating_Simulated_Storyworlds)
+ - James Ryan's PhD thesis
+ - ["He’s talking about procedurally generated narrative, and advocating for the idea that, instead of trying to bend simulations into narratively interesting paths, we should simulate lots of characters and then (possibly automatically) curate and present the stories that turn out to be interesting."](https://intfiction.org/t/curating-simulated-storyworlds-james-ryans-phd-thesis/40869/3)
 
 - [Hybridity and Transformation: The Art of Lin Onus](https://www.postcolonial.org/index.php/pct/article/view/1706/1516)
 
