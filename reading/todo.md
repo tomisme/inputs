@@ -16,6 +16,8 @@ Other books:
 
 ## Articles, Blog Posts
 
+- [History of the Capital AI & Market Failures in the Attention Economy](https://kortina.nyc/essays/market-failures-in-the-attention-economy/)
+
 - [How the US has hidden its empire](https://www.theguardian.com/news/2019/feb/15/the-us-hidden-empire-overseas-territories-united-states-guam-puerto-rico-american-samoa)
 
 - [Ancient technology gets an update in sustainable cooling solution](https://archpaper.com/2019/02/ant-studio-beehive)
