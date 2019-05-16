@@ -1,20 +1,16 @@
-# Some things to watch
+# Some things I've watched
 
-## Movies
+## TV Shows
 
- - Blackadder Back & Forth (1999)
-   - https://www.youtube.com/watch?v=rzHn2H2V8N4
+- [Big Mouth](https://www.imdb.com/title/tt6524350/)
+- [The Haunting of Hill House](https://www.imdb.com/title/tt6763664/)
 
-## Shows
+## Web
 
-- The Armstrong and Miller Show
-   - https://en.wikipedia.org/wiki/Armstrong_and_Miller_(TV_series)
-
- - Human Remains
-   - https://en.wikipedia.org/wiki/Human_Remains_(TV_series)
-
- - Marion and Geoff
-   - https://en.wikipedia.org/wiki/Marion_and_Geoff
-
- - Off The Air
-   - http://www.adultswim.com/videos/off-the-air/
+- [David Nolen - Rethinking Identity with Clojure](https://www.youtube.com/watch?v=ryPw28e0DNs)
+  - I'm already convinced about the wins you get with Clojure but Vouch looks like Clojure + Blockchain and I'm curious to see what David Nolan and Mike Fikes are working on together!
+  - "The performance of Java & Javascript virtual machines enable language design"
+  - Curious to see how the people at Vouch think about identity (hopefully something like the 'intersectional social identity' Glen Weyl has been talking about)
+  - "If you want to build a secure system you need to look at biology -- the way that we're built, you're guaranteed to get sick"
+  - Demo: QR codes, biometrics via phone (secure enclave)
+  - One set of specs for chaincode (!), server, app etc. 
