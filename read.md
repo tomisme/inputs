@@ -10,6 +10,11 @@
 
 ## Articles & Blogs
 
+### Scott Alexander
+
+- https://slatestarcodex.com/2019/03/11/ketamine-now-by-prescription/
+- https://slatestarcodex.com/2019/05/22/the-apa-meeting-a-photo-essay/
+
 ### David Graeber & David Wengrow
 
 #### How to change the course of human history (at least, the part that’s already happened)

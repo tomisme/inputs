@@ -16,6 +16,11 @@ Other books:
 
 ## Articles, Blog Posts
 
+- [Brave Old World: Immigration, inequality and intergenerational mobility in the US](https://voxeu.org/article/immigration-inequality-and-intergenerational-mobility-us)
+  - Original paper: [American geography of opportunity reveals European origins](https://www.pnas.org/content/116/13/6045.short?rss=1)
+
+- [Seeing Like a Communist](https://medium.com/@sumdepony/seeing-like-a-communist-f3049710fb6c)
+
 - [History of the Capital AI & Market Failures in the Attention Economy](https://kortina.nyc/essays/market-failures-in-the-attention-economy/)
 
 - [How the US has hidden its empire](https://www.theguardian.com/news/2019/feb/15/the-us-hidden-empire-overseas-territories-united-states-guam-puerto-rico-american-samoa)
